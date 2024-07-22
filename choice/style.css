@@ -1,0 +1,26 @@
+.choice{
+    background-color: bisque;
+    margin: 100px 400px;
+    padding: 10px 50px;
+}
+.choice h2{
+    font-weight: bold;
+    font-size:40px;
+}
+.choice a{
+    background-color:red;
+    border: 1px solid transparent;
+    padding: 10px;
+    /* margin-left:-15px ; */
+    
+}
+.choice p{
+    margin: 10px;
+    background-color:white;
+    padding: 10px;
+}
+.choice button{
+    background-color:transparent;
+    border: transparent;
+    padding: 0px 100px;
+}
